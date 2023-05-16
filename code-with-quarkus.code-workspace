@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "code-with-quarkus"
+		}
+	],
+	"settings": {
+		"java.configuration.runtimes": [
+			{
+				"name": "JavaSE-11",
+				"path": "D:\\Software Java\\JDK\\Version 11\\zulu11.58.23-ca-jdk11.0.16.1-win_x64"
+
+
+			}
+		]
+	}
+}
